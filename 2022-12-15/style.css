@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Bebas";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Bebas"),
+    url("fonts/bebasneue/BebasNeue\ Bold.ttf") format("woff2")
+}
+
+#zag{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: "Bebas";
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+}
+
+#img1{
+    width: 23px;
+    height: 23px;
+}
+
+#vxod{
+    text-align: right;
+    margin: 5px;
+}
+
+#asortement{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: "Bebas";
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+}
+#card1{
+    width: 200px;
+    size: 100px;
+}
+
+#card2{
+    width: 200px;
+    size: 150px;
+}
+
+#card3{
+    width: 200px;
+    size: 150px;
+}
+
+#card4{
+    width: 200px;
+    size: 150px;
+}
+
+#card5{
+    width: 200px;
+    size: 150px;
+}
+
+
+/* Вторая страница */
+
+#reg{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: "Bebas";
+    font-size: 30px;
+    padding: 20px;
+    margin: 5px;
+}
+
+#poloska{
+    background-color: blueviolet;
+    padding: 35px;
+    margin: 5px;
+}
+
+
+
